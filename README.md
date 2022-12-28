@@ -30,6 +30,8 @@ This repo is made for me to share all the working and not working all together.
 
 - [Pheonixyyz / PYX](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics/Animations/PYX) - hosted by UberGuidoZ
 
+- [Kuronons](https://github.com/Kuronons/FZ_graphics) - Custom animations maker
+
 ## Links of interest : FLIPPER GRAPHICS -> Tutorials, Tools & Applications
 
 - [Flipper Zero Animation Process](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub) - Google doc, by Talking-Sasquach
@@ -39,8 +41,6 @@ This repo is made for me to share all the working and not working all together.
 - [Zip2Animation](https://github.com/CharlesTheGreat77/zip2Animation) : Python tool for FZ animations, by DoobTheGoober
 
 - [Flipper Zero Animation Manager](https://github.com/Ooggle/FlipperAnimationManager) : WIP App to preview animations on PC and create manifests / fav lists, by Ooggle
-
-- [Kuronons](https://github.com/Kuronons/FZ_graphics) - Custom animations maker
 
 ## Links of interest : FLIPPER DATABASES
 
